@@ -3,6 +3,9 @@
 
 # Dicee 🎲
 
+## Here is my result
+![Finished App](https://github.com/Capotasto/dicee-flutter/blob/master/assets/May-03-2020%2022-29-46.gif)
+
 ## Our Goal
 
 The objective of this tutorial is to introduce you to the core programming concepts that will form the foundation of most of the apps you’ll build in the future. This app will teach you how to make apps with functionality using setState() inside Stateful Flutter widgets.
